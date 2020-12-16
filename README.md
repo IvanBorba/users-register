@@ -12,7 +12,7 @@ We used some React.js libraries such as React-router-dom, React-form-hook, Style
 
 ## Users API:
 
-At this project our educacional instituition provided us an API designed to handle users and feedbacks registers, we choosed
+At this project our educacional instituition provided us an API designed to handle users and feedbacks registers, we choose
 axios library to do our HTTP requisitions.
 
 ### Original repository:
