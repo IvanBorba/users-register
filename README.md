@@ -4,7 +4,7 @@ This project was created with study purposes.
 
 ## Developers and repository:
 
-I've developed this project together with my colleague at Kenzie Academy Brasil called Matheus Gasparotto.
+I've developed this project together with my colleague Matheus Gasparotto at Kenzie Academy Brasil.
 
 Matheus Gasparotto's GitHub > https://github.com/matheusgasparotto
 
